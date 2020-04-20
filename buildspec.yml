@@ -1,6 +1,9 @@
 ---
 version: 0.2
 
+runtime version:
+      python:3.7
+
 env:
   parameter-store:
     JWT_SECRET: JWT_SECRET
